@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Bnaoufel11
-- 👀 I’m interested in front end development 
+- 👋 Hi, I’m, Naoufel Bouziani 
+- 👀 I’m interested in full stack development and the devops tools.
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking for an apprenticeship in development front end 
+- 📫 reach me at : nawfalbouziani43@gmail.com 
+- 😄
 
 <!---
 Bnaoufel11/Bnaoufel11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
